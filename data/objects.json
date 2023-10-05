@@ -22865,6 +22865,18 @@
         "ori": 0,
         "inheritOri": false
       }
+    ],
+    "mapObstacleBounds": [
+      {
+        "min": {
+          "x": -2,
+          "y": -2
+        },
+        "max": {
+          "x": 2,
+          "y": 2
+        }
+      }
     ]
   },
   "cache_pumpkin_02": {
@@ -22903,6 +22915,18 @@
         "ori": 0,
         "inheritOri": false
       }
+    ],
+    "mapObstacleBounds": [
+      {
+        "min": {
+          "x": -2,
+          "y": -2
+        },
+        "max": {
+          "x": 2,
+          "y": 2
+        }
+      }
     ]
   },
   "cache_pumpkin_03": {
@@ -22940,6 +22964,18 @@
         "scale": 1.5,
         "ori": 0,
         "inheritOri": false
+      }
+    ],
+    "mapObstacleBounds": [
+      {
+        "min": {
+          "x": -2,
+          "y": -2
+        },
+        "max": {
+          "x": 2,
+          "y": 2
+        }
       }
     ]
   },

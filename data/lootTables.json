@@ -108,11 +108,7 @@
     "katana_orchid": { "count": 1, "weight": 1 }
   },
   "tier_eye_block": {
-    "m9": { "count": 1, "weight": 1 },
-    "ots38_dual": { "count": 1, "weight": 1 },
     "flare_gun": { "count": 1, "weight": 1 },
-    "colt45": { "count": 1, "weight": 1 },
-    "45acp": { "count": 1, "weight": 1 },
     "painkiller": { "count": 1, "weight": 1 },
     "m4a1": { "count": 1, "weight": 0.4 },
     "m249": { "count": 1, "weight": 0.05 },
@@ -133,37 +129,20 @@
     "machete_taiga": { "count": 1, "weight": 1 }
   },
   "tier_guns": {
-    "famas": { "count": 1, "weight": 0.9 },
-    "hk416": { "count": 1, "weight": 4 },
     "mk12": { "count": 1, "weight": 0.1 },
-    "pkp": { "count": 1, "weight": 0.005 },
-    "m249": { "count": 1, "weight": 0.006 },
-    "ak47": { "count": 1, "weight": 2.7 },
+    "pkp": { "count": 1, "weight": 0.1 },
+    "m249": { "count": 1, "weight": 0.1 },
     "scar": { "count": 1, "weight": 0.01 },
-    "dp28": { "count": 1, "weight": 0.5 },
-    "mosin": { "count": 1, "weight": 0.1 },
-    "m39": { "count": 1, "weight": 0.1 },
     "vss": { "count": 1, "weight": 0.1 },
-    "mp5": { "count": 1, "weight": 10 },
-    "mac10": { "count": 1, "weight": 6 },
-    "ump9": { "count": 1, "weight": 3 },
-    "m870": { "count": 1, "weight": 9 },
-    "m1100": { "count": 1, "weight": 6 },
-    "mp220": { "count": 1, "weight": 2 },
     "saiga": { "count": 1, "weight": 0.1 },
-    "ot38": { "count": 1, "weight": 8 },
-    "m9": { "count": 1, "weight": 19 },
-    "m93r": { "count": 1, "weight": 5 },
-    "glock": { "count": 1, "weight": 7 },
     "deagle": { "count": 1, "weight": 0.05 },
     "vector": { "count": 1, "weight": 0.01 },
     "sv98": { "count": 1, "weight": 0.01 },
-    "spas12": { "count": 1, "weight": 1 },
     "qbb97": { "count": 1, "weight": 0.01 },
     "flare_gun": { "count": 1, "weight": 0.1 },
-    "flare_gun_dual": { "count": 1, "weight": 0.00017 },
-    "groza": { "count": 1, "weight": 0.8 },
-    "scout": { "count": 1, "weight": 0.05 }
+    "flare_gun_dual": { "count": 1, "weight": 0.05 },
+    "usas": {"count": 1, "weight": 0.2},
+    "awc": {"count": 1, "weight": 0.1}
   },
   "tier_police": {
     "scar": { "count": 1, "weight": 2 },
@@ -203,10 +182,43 @@
   },
   "tier_hatchet": {
     "vector": { "count": 1, "weight": 5 },
-    "hk416": { "count": 1, "weight": 2 },
     "mp220": { "count": 1, "weight": 1 },
     "m249": { "count": 1, "weight": 0.1 },
-    "pkp": { "count": 1, "weight": 0.05 },
-    "m9": { "count": 1, "weight": 0.01 }
+    "pkp": { "count": 1, "weight": 0.05 }
+  },
+  "tier_outfits": {
+    "outfitBarrel": { "count": 1, "weight": 1 },
+    "outfitWoodBarrel": { "count": 1, "weight": 1 },
+    "outfitStone": { "count": 1, "weight": 1 },
+    "outfitTree": { "count": 1, "weight": 1 },
+    "outfitTreeSpooky": { "count": 1, "weight": 1 },
+    "outfitStump": { "count": 1, "weight": 1 },
+    "outfitBush": { "count": 1, "weight": 1 },
+    "outfitLeafPile": { "count": 1, "weight": 1 },
+    "outfitCrate": { "count": 1, "weight": 1 },
+    "outfitTable": { "count": 1, "weight": 1 },
+    "outfitSoviet": { "count": 1, "weight": 1 },
+    "outfitAirdrop": { "count": 1, "weight": 1 },
+    "outfitOven": { "count": 1, "weight": 1 },
+    "outfitRefrigerator": { "count": 1, "weight": 1 },
+    "outfitVending": { "count": 1, "weight": 1 },
+    "outfitPumpkin": { "count": 1, "weight": 1 },
+    "outfitWoodpile": { "count": 1, "weight": 1 },
+    "outfitToilet": { "count": 1, "weight": 1 }
+  },
+  "tier_pumpkin_candy":{
+    "halloween_mystery": { "count": 1, "weight": 1 }
+  },
+  "tier_pumpkin_perks":{
+    "trick_nothing": { "count": 1, "weight": 1 },
+    "trick_size": { "count": 1, "weight": 1 },
+    "trick_m9": { "count": 1, "weight": 1 },
+    "trick_chatty": { "count": 1, "weight": 1 },
+    "trick_drain": { "count": 1, "weight": 1 },
+    "treat_9mm": { "count": 1, "weight": 1 },
+    "treat_12g": { "count": 1, "weight": 1 },
+    "treat_556": { "count": 1, "weight": 1 },
+    "treat_762": { "count": 1, "weight": 1 },
+    "treat_super": { "count": 1, "weight": 1 }
   }
 }
